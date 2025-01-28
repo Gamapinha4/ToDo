@@ -1,3 +1,1 @@
-Projeto criado com apoio da RocketSeat ONE.
-
-O aplicativo é um ToDo list, usado para gerenciar seu dia de forma eficiente.
+Este aplicativo foi desenvolvido com o apoio da RocketSeat ONE e tem como objetivo ajudar os usuários a gerenciar seu dia de forma eficiente. Com uma interface simples e intuitiva, o ToDo List permite adicionar, organizar e marcar tarefas, proporcionando uma forma prática de planejar e acompanhar suas atividades diárias.
